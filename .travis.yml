@@ -8,7 +8,7 @@ script:
 deploy:
   provider: pages
   strategy: git
-  token: $github_token     # same env var in Travis
+  token: $Comp3104
   keep_history: true
   local_dir: build
   cleanup: false           # replaces skip_cleanup
