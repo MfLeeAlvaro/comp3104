@@ -1,0 +1,12 @@
+{
+  "name": "comp3104-lab04-starter",
+  "version": "1.0.0",
+  "description": "Starter Node.js project for COMP3104 Lab 04 - Travis CI, GitHub Actions, PR template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\" && exit 0",
+    "build": "node build.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
